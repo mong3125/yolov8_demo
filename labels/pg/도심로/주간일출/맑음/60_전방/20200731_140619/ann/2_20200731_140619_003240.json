@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 580946753,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:39:11.000Z",
+            "updatedAt": "2020-12-07T15:42:33.082Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        995,
+                        543
+                    ],
+                    [
+                        995,
+                        560
+                    ],
+                    [
+                        999,
+                        561
+                    ],
+                    [
+                        1001,
+                        559
+                    ],
+                    [
+                        1009,
+                        560
+                    ],
+                    [
+                        1011,
+                        560
+                    ],
+                    [
+                        1015,
+                        561
+                    ],
+                    [
+                        1014,
+                        545
+                    ],
+                    [
+                        1013,
+                        541
+                    ],
+                    [
+                        1010,
+                        538
+                    ],
+                    [
+                        1003,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946752,
+            "classId": 2737563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:39:11.000Z",
+            "updatedAt": "2020-12-07T15:42:30.022Z",
+            "tags": [],
+            "classTitle": "Vehicle_Bus",
+            "points": {
+                "exterior": [
+                    [
+                        982,
+                        530
+                    ],
+                    [
+                        979,
+                        538
+                    ],
+                    [
+                        980,
+                        555
+                    ],
+                    [
+                        986,
+                        556
+                    ],
+                    [
+                        993,
+                        554
+                    ],
+                    [
+                        995,
+                        541
+                    ],
+                    [
+                        1002,
+                        530
+                    ],
+                    [
+                        993,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946751,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:39:11.000Z",
+            "updatedAt": "2020-12-07T15:36:30.788Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        906,
+                        527
+                    ],
+                    [
+                        895,
+                        528
+                    ],
+                    [
+                        890,
+                        535
+                    ],
+                    [
+                        891,
+                        543
+                    ],
+                    [
+                        895,
+                        542
+                    ],
+                    [
+                        902,
+                        543
+                    ],
+                    [
+                        905,
+                        544
+                    ],
+                    [
+                        911,
+                        543
+                    ],
+                    [
+                        910,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

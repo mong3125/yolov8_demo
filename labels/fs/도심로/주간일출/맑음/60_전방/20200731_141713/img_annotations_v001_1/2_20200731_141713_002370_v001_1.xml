@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_002370</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>522</x><y>758</y><x>790</x><y>626</y><x>872</x><y>586</y><x>901</x><y>568</y><x>906</x><y>562</y><x>906</x><y>552</y><x>906</x><y>548</y><x>909</x><y>548</y><x>910</x><y>551</y><x>913</x><y>551</y><x>913</x><y>549</y><x>917</x><y>549</y><x>918</x><y>551</y><x>921</x><y>551</y><x>922</x><y>549</y><x>924</x><y>549</y><x>924</x><y>566</y><x>932</x><y>566</y><x>932</x><y>562</y><x>935</x><y>561</y><x>935</x><y>566</y><x>938</x><y>566</y><x>939</x><y>562</y><x>947</x><y>562</y><x>947</x><y>566</y><x>950</x><y>566</y><x>950</x><y>562</y><x>952</x><y>561</y><x>952</x><y>566</y><x>962</x><y>567</y><x>962</x><y>554</y><x>965</x><y>554</y><x>971</x><y>554</y><x>989</x><y>555</y><x>991</x><y>556</y><x>991</x><y>563</y><x>994</x><y>563</y><x>995</x><y>564</y><x>999</x><y>564</y><x>999</x><y>560</y><x>1002</x><y>560</y><x>1006</x><y>561</y><x>1009</x><y>561</y><x>1009</x><y>559</y><x>1011</x><y>560</y><x>1011</x><y>563</y><x>1018</x><y>564</y><x>1019</x><y>560</y><x>1021</x><y>562</y><x>1031</x><y>563</y><x>1055</x><y>567</y><x>1056</x><y>576</y><x>1057</x><y>576</y><x>1057</x><y>586</y><x>1058</x><y>592</y><x>1061</x><y>598</y><x>1066</x><y>599</y><x>1072</x><y>599</y><x>1074</x><y>597</y><x>1074</x><y>589</y><x>1081</x><y>589</y><x>1089</x><y>593</y><x>1089</x><y>601</y><x>1090</x><y>605</y><x>1094</x><y>611</y><x>1101</x><y>614</y><x>1102</x><y>613</y><x>1104</x><y>617</y><x>1109</x><y>618</y><x>1113</x><y>619</y><x>1116</x><y>619</y><x>1119</x><y>617</y><x>1120</x><y>617</y><x>1127</x><y>619</y><x>1141</x><y>623</y><x>1227</x><y>620</y><x>1237</x><y>619</y><x>1240</x><y>611</y><x>1247</x><y>614</y><x>1258</x><y>613</y><x>1264</x><y>610</y><x>1271</x><y>611</y><x>1274</x><y>612</y><x>1279</x><y>609</y><x>1320</x><y>606</y><x>1455</x><y>626</y><x>1553</x><y>641</y><x>1778</x><y>681</y><x>1875</x><y>702</y><x>1834</x><y>723</y><x>1705</x><y>737</y><x>1325</x><y>781</y><x>920</x><y>788</y><x>677</x><y>785</y><x>521</x><y>756</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

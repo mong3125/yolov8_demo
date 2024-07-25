@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_000840</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1024</x><y>552</y><x>1028</x><y>554</y><x>1038</x><y>554</y><x>1051</x><y>556</y><x>1058</x><y>556</y><x>1058</x><y>569</y><x>1059</x><y>584</y><x>1061</x><y>585</y><x>1065</x><y>585</y><x>1067</x><y>584</y><x>1068</x><y>587</y><x>1071</x><y>590</y><x>1078</x><y>590</y><x>1081</x><y>589</y><x>1080</x><y>581</y><x>1106</x><y>581</y><x>1106</x><y>587</y><x>1111</x><y>589</y><x>1118</x><y>590</y><x>1125</x><y>590</y><x>1126</x><y>589</y><x>1126</x><y>580</y><x>1128</x><y>580</y><x>1127</x><y>577</y><x>1127</x><y>572</y><x>1134</x><y>570</y><x>1132</x><y>568</y><x>1131</x><y>564</y><x>1133</x><y>562</y><x>1193</x><y>577</y><x>1473</x><y>617</y><x>1919</x><y>692</y><x>1828</x><y>726</y><x>1322</x><y>775</y><x>714</x><y>779</y><x>537</x><y>764</y><x>929</x><y>565</y><x>965</x><y>547</y><x>965</x><y>550</y><x>966</x><y>550</y><x>966</x><y>555</y><x>970</x><y>555</y><x>969</x><y>552</y><x>979</x><y>552</y><x>980</x><y>555</y><x>983</x><y>555</y><x>982</x><y>548</y><x>984</x><y>548</y><x>985</x><y>550</y><x>988</x><y>550</y><x>994</x><y>549</y><x>995</x><y>551</y><x>997</x><y>551</y><x>996</x><y>547</y><x>1002</x><y>547</y><x>1004</x><y>547</y><x>1004</x><y>558</y><x>1010</x><y>557</y><x>1010</x><y>555</y><x>1019</x><y>555</y><x>1019</x><y>558</y><x>1024</x><y>558</y><x>1024</x><y>553</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

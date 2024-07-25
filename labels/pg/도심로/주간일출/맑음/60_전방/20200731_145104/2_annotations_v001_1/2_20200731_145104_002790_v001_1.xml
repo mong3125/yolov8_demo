@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_145104_002790</filename>
+  <path>Z:\polygon\IPIS201202_verification\IPIS_4week_5d\20200731_145104\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>Vehicle_Car</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>942</x><y>542</y><x>925</x><y>543</y><x>915</x><y>553</y><x>914</x><y>587</y><x>916</x><y>589</y><x>920</x><y>588</y><x>922</x><y>588</y><x>926</x><y>584</y><x>930</x><y>583</y><x>952</x><y>584</y><x>965</x><y>586</y><x>969</x><y>589</y><x>974</x><y>589</y><x>976</x><y>587</y><x>975</x><y>566</y><x>976</x><y>557</y><x>976</x><y>555</y><x>973</x><y>553</y><x>971</x><y>550</y><x>964</x><y>543</y><x>961</x><y>542</y><x>949</x><y>541</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

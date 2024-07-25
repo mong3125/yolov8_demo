@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581480303,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-24T12:43:53.000Z",
+            "updatedAt": "2020-12-05T11:16:25.664Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        966,
+                        551
+                    ],
+                    [
+                        962,
+                        553
+                    ],
+                    [
+                        959,
+                        557
+                    ],
+                    [
+                        960,
+                        570
+                    ],
+                    [
+                        963,
+                        569
+                    ],
+                    [
+                        966,
+                        568
+                    ],
+                    [
+                        986,
+                        570
+                    ],
+                    [
+                        987,
+                        555
+                    ],
+                    [
+                        984,
+                        552
+                    ],
+                    [
+                        982,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581480302,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-24T12:43:53.000Z",
+            "updatedAt": "2020-12-05T11:16:31.851Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        1001,
+                        551
+                    ],
+                    [
+                        998,
+                        555
+                    ],
+                    [
+                        998,
+                        565
+                    ],
+                    [
+                        1001,
+                        564
+                    ],
+                    [
+                        1017,
+                        564
+                    ],
+                    [
+                        1017,
+                        557
+                    ],
+                    [
+                        1017,
+                        553
+                    ],
+                    [
+                        1013,
+                        551
+                    ],
+                    [
+                        1010,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

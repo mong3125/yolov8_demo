@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581036729,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:30:29.000Z",
+            "updatedAt": "2020-12-04T11:33:54.679Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        958,
+                        526
+                    ],
+                    [
+                        960,
+                        559
+                    ],
+                    [
+                        965,
+                        558
+                    ],
+                    [
+                        975,
+                        559
+                    ],
+                    [
+                        979,
+                        559
+                    ],
+                    [
+                        981,
+                        557
+                    ],
+                    [
+                        982,
+                        552
+                    ],
+                    [
+                        982,
+                        527
+                    ],
+                    [
+                        980,
+                        525
+                    ],
+                    [
+                        976,
+                        520
+                    ],
+                    [
+                        967,
+                        520
+                    ],
+                    [
+                        961,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036728,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-04T10:32:53.134Z",
+            "updatedAt": "2020-12-04T10:33:03.782Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        1398,
+                        547
+                    ],
+                    [
+                        1491,
+                        549
+                    ],
+                    [
+                        1492,
+                        560
+                    ],
+                    [
+                        1536,
+                        563
+                    ],
+                    [
+                        1530,
+                        529
+                    ],
+                    [
+                        1523,
+                        495
+                    ],
+                    [
+                        1496,
+                        494
+                    ],
+                    [
+                        1410,
+                        502
+                    ],
+                    [
+                        1398,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

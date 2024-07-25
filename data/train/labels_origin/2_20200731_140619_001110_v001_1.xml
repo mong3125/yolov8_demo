@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_140619_001110.jpg</filename>
+  <path>C:\Users\KATECH-02\Desktop\20201125(TQS김지혜)_4차_성선영\20201125_오은경_4차\20200731_140619\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>710</xmin>
+      <ymin>540</ymin>
+      <xmax>771</xmax>
+      <ymax>563</ymax>
+    </bndbox>
+    <index>1</index>
+    <review_code>C_v001</review_code>
+  </object>
+  <object>
+    <name>Vehicle_Bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>956</xmin>
+      <ymin>524</ymin>
+      <xmax>982</xmax>
+      <ymax>557</ymax>
+    </bndbox>
+    <index>2</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

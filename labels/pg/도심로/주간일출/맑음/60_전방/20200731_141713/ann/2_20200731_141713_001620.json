@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581036952,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:16.000Z",
+            "updatedAt": "2020-12-04T10:44:56.764Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        1007,
+                        544
+                    ],
+                    [
+                        1004,
+                        550
+                    ],
+                    [
+                        1004,
+                        561
+                    ],
+                    [
+                        1007,
+                        560
+                    ],
+                    [
+                        1019,
+                        561
+                    ],
+                    [
+                        1023,
+                        562
+                    ],
+                    [
+                        1026,
+                        562
+                    ],
+                    [
+                        1027,
+                        557
+                    ],
+                    [
+                        1025,
+                        548
+                    ],
+                    [
+                        1024,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036951,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:16.000Z",
+            "updatedAt": "2020-12-04T11:36:08.371Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        959,
+                        520
+                    ],
+                    [
+                        957,
+                        524
+                    ],
+                    [
+                        958,
+                        531
+                    ],
+                    [
+                        959,
+                        557
+                    ],
+                    [
+                        966,
+                        557
+                    ],
+                    [
+                        977,
+                        557
+                    ],
+                    [
+                        981,
+                        557
+                    ],
+                    [
+                        982,
+                        554
+                    ],
+                    [
+                        983,
+                        546
+                    ],
+                    [
+                        983,
+                        525
+                    ],
+                    [
+                        981,
+                        522
+                    ],
+                    [
+                        978,
+                        518
+                    ],
+                    [
+                        972,
+                        517
+                    ],
+                    [
+                        965,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036950,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-04T10:44:56.483Z",
+            "updatedAt": "2020-12-04T10:45:00.584Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        891,
+                        547
+                    ],
+                    [
+                        904,
+                        548
+                    ],
+                    [
+                        906,
+                        545
+                    ],
+                    [
+                        913,
+                        544
+                    ],
+                    [
+                        913,
+                        531
+                    ],
+                    [
+                        891,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

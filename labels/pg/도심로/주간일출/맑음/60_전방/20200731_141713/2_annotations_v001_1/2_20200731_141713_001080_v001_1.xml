@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_001080</filename>
+  <path>Z:\polygon\IPIS201201_verification\IPIS_4week_4d\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>3</index_max>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1392</x><y>468</y><x>1385</x><y>469</y><x>1372</x><y>474</y><x>1368</x><y>475</y><x>1350</x><y>477</y><x>1339</x><y>480</y><x>1332</x><y>484</y><x>1327</x><y>490</y><x>1325</x><y>493</y><x>1312</x><y>501</y><x>1309</x><y>510</y><x>1307</x><y>521</y><x>1300</x><y>527</y><x>1297</x><y>529</y><x>1295</x><y>531</y><x>1278</x><y>526</y><x>1279</x><y>551</y><x>1287</x><y>556</y><x>1290</x><y>572</y><x>1289</x><y>578</y><x>1286</x><y>589</y><x>1279</x><y>601</y><x>1278</x><y>604</y><x>1277</x><y>609</y><x>1278</x><y>631</y><x>1284</x><y>635</y><x>1290</x><y>641</y><x>1291</x><y>644</y><x>1293</x><y>653</y><x>1295</x><y>659</y><x>1297</x><y>662</y><x>1306</x><y>672</y><x>1309</x><y>682</y><x>1310</x><y>688</y><x>1310</x><y>691</y><x>1315</x><y>695</y><x>1318</x><y>696</y><x>1339</x><y>695</y><x>1359</x><y>691</y><x>1365</x><y>689</y><x>1370</x><y>688</y><x>1377</x><y>689</y><x>1401</x><y>688</y><x>1407</x><y>689</y><x>1418</x><y>694</y><x>1421</x><y>695</y><x>1424</x><y>695</y><x>1427</x><y>697</y><x>1432</x><y>702</y><x>1434</x><y>722</y><x>1436</x><y>729</y><x>1436</x><y>731</y><x>1447</x><y>738</y><x>1453</x><y>743</y><x>1456</x><y>744</y><x>1470</x><y>742</y><x>1474</x><y>741</y><x>1495</x><y>732</y><x>1497</x><y>732</y><x>1503</x><y>728</y><x>1509</x><y>726</y><x>1514</x><y>725</y><x>1546</x><y>722</y><x>1563</x><y>718</y><x>1598</x><y>726</y><x>1604</x><y>728</y><x>1607</x><y>730</y><x>1609</x><y>732</y><x>1614</x><y>734</y><x>1619</x><y>735</y><x>1638</x><y>734</y><x>1645</x><y>732</y><x>1659</x><y>726</y><x>1674</x><y>716</y><x>1686</x><y>705</y><x>1689</x><y>703</y><x>1696</x><y>692</y><x>1703</x><y>686</y><x>1707</x><y>685</y><x>1729</x><y>683</y><x>1738</x><y>681</y><x>1759</x><y>672</y><x>1764</x><y>665</y><x>1765</x><y>662</y><x>1766</x><y>652</y><x>1765</x><y>590</y><x>1764</x><y>586</y><x>1762</x><y>583</y><x>1757</x><y>579</y><x>1743</x><y>575</y><x>1672</x><y>576</y><x>1664</x><y>577</y><x>1560</x><y>574</y><x>1544</x><y>569</y><x>1536</x><y>559</y><x>1534</x><y>553</y><x>1534</x><y>551</y><x>1521</x><y>534</y><x>1520</x><y>531</y><x>1518</x><y>505</y><x>1516</x><y>496</y><x>1514</x><y>493</y><x>1504</x><y>481</y><x>1498</x><y>476</y><x>1496</x><y>474</y><x>1485</x><y>469</y><x>1478</x><y>467</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>607</x><y>514</y><x>561</x><y>522</y><x>557</x><y>528</y><x>553</x><y>532</y><x>551</x><y>537</y><x>554</x><y>549</y><x>560</x><y>550</y><x>564</x><y>549</y><x>629</x><y>549</y><x>657</x><y>549</y><x>655</x><y>537</y><x>654</x><y>530</y><x>656</x><y>520</y><x>650</x><y>516</y><x>619</x><y>513</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1071</x><y>523</y><x>1067</x><y>524</y><x>1057</x><y>538</y><x>1054</x><y>556</y><x>1055</x><y>575</y><x>1058</x><y>579</y><x>1066</x><y>580</y><x>1070</x><y>579</y><x>1074</x><y>576</y><x>1089</x><y>577</y><x>1093</x><y>578</y><x>1095</x><y>580</y><x>1106</x><y>576</y><x>1109</x><y>566</y><x>1108</x><y>543</y><x>1106</x><y>535</y><x>1106</x><y>533</y><x>1103</x><y>528</y><x>1093</x><y>521</y>
+   </PolyPt>
+   <index>3</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

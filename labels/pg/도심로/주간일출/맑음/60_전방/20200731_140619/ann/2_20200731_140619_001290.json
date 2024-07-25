@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 580946172,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:30:35.000Z",
+            "updatedAt": "2020-11-23T08:30:35.000Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        877,
+                        538
+                    ],
+                    [
+                        871,
+                        542
+                    ],
+                    [
+                        871,
+                        544
+                    ],
+                    [
+                        874,
+                        545
+                    ],
+                    [
+                        897,
+                        545
+                    ],
+                    [
+                        897,
+                        541
+                    ],
+                    [
+                        892,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946171,
+            "classId": 2737563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:30:35.000Z",
+            "updatedAt": "2020-12-07T14:50:50.477Z",
+            "tags": [],
+            "classTitle": "Vehicle_Bus",
+            "points": {
+                "exterior": [
+                    [
+                        980,
+                        520
+                    ],
+                    [
+                        972,
+                        520
+                    ],
+                    [
+                        968,
+                        530
+                    ],
+                    [
+                        967,
+                        536
+                    ],
+                    [
+                        969,
+                        557
+                    ],
+                    [
+                        971,
+                        557
+                    ],
+                    [
+                        973,
+                        555
+                    ],
+                    [
+                        976,
+                        554
+                    ],
+                    [
+                        984,
+                        555
+                    ],
+                    [
+                        987,
+                        555
+                    ],
+                    [
+                        989,
+                        557
+                    ],
+                    [
+                        993,
+                        557
+                    ],
+                    [
+                        994,
+                        554
+                    ],
+                    [
+                        996,
+                        530
+                    ],
+                    [
+                        990,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

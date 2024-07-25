@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_140619_001590</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_140619\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>461</x><y>761</y><x>597</x><y>701</y><x>713</x><y>652</y><x>802</x><y>621</y><x>872</x><y>594</y><x>935</x><y>573</y><x>961</x><y>566</y><x>993</x><y>560</y><x>1007</x><y>558</y><x>1007</x><y>562</y><x>1012</x><y>562</y><x>1019</x><y>562</y><x>1018</x><y>558</y><x>1032</x><y>558</y><x>1033</x><y>561</y><x>1038</x><y>563</y><x>1043</x><y>561</y><x>1043</x><y>557</y><x>1045</x><y>553</y><x>1057</x><y>551</y><x>1075</x><y>549</y><x>1076</x><y>551</y><x>1080</x><y>550</y><x>1080</x><y>549</y><x>1085</x><y>548</y><x>1085</x><y>549</y><x>1088</x><y>550</y><x>1089</x><y>548</y><x>1092</x><y>547</y><x>1093</x><y>550</y><x>1093</x><y>552</y><x>1104</x><y>552</y><x>1106</x><y>549</y><x>1108</x><y>549</y><x>1110</x><y>547</y><x>1119</x><y>546</y><x>1121</x><y>550</y><x>1127</x><y>549</y><x>1127</x><y>551</y><x>1124</x><y>554</y><x>1124</x><y>559</y><x>1136</x><y>564</y><x>1169</x><y>572</y><x>1193</x><y>576</y><x>1224</x><y>583</y><x>1294</x><y>596</y><x>1346</x><y>607</y><x>1383</x><y>613</y><x>1438</x><y>623</y><x>1497</x><y>634</y><x>1609</x><y>655</y><x>1703</x><y>671</y><x>1765</x><y>684</y><x>1848</x><y>702</y><x>1861</x><y>705</y><x>1826</x><y>713</y><x>1702</x><y>741</y><x>1564</x><y>754</y><x>1420</x><y>763</y><x>1210</x><y>779</y><x>1112</x><y>783</y><x>792</x><y>780</y><x>652</x><y>778</y><x>515</x><y>768</y><x>490</x><y>764</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

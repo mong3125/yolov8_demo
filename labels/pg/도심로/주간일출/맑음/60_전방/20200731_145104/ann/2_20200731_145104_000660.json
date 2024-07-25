@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581480358,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-24T12:42:43.000Z",
+            "updatedAt": "2020-12-05T11:06:37.782Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        1034,
+                        545
+                    ],
+                    [
+                        1030,
+                        550
+                    ],
+                    [
+                        1029,
+                        553
+                    ],
+                    [
+                        1029,
+                        567
+                    ],
+                    [
+                        1036,
+                        565
+                    ],
+                    [
+                        1051,
+                        566
+                    ],
+                    [
+                        1053,
+                        568
+                    ],
+                    [
+                        1056,
+                        568
+                    ],
+                    [
+                        1057,
+                        553
+                    ],
+                    [
+                        1053,
+                        547
+                    ],
+                    [
+                        1049,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581480357,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-24T12:42:43.000Z",
+            "updatedAt": "2020-12-05T11:06:37.782Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        964,
+                        546
+                    ],
+                    [
+                        961,
+                        548
+                    ],
+                    [
+                        958,
+                        552
+                    ],
+                    [
+                        957,
+                        555
+                    ],
+                    [
+                        956,
+                        564
+                    ],
+                    [
+                        957,
+                        568
+                    ],
+                    [
+                        960,
+                        568
+                    ],
+                    [
+                        962,
+                        566
+                    ],
+                    [
+                        983,
+                        568
+                    ],
+                    [
+                        986,
+                        567
+                    ],
+                    [
+                        986,
+                        550
+                    ],
+                    [
+                        979,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581480356,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-05T11:06:30.166Z",
+            "updatedAt": "2020-12-05T11:06:37.782Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        632
+                    ],
+                    [
+                        455,
+                        610
+                    ],
+                    [
+                        455,
+                        574
+                    ],
+                    [
+                        414,
+                        552
+                    ],
+                    [
+                        330,
+                        549
+                    ],
+                    [
+                        244,
+                        600
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581480355,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-05T11:06:37.505Z",
+            "updatedAt": "2020-12-05T11:06:41.792Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        607
+                    ],
+                    [
+                        683,
+                        582
+                    ],
+                    [
+                        676,
+                        546
+                    ],
+                    [
+                        585,
+                        544
+                    ],
+                    [
+                        525,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

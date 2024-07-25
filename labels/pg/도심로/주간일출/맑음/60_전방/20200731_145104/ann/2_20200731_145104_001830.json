@@ -1,0 +1,70 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581485153,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-24T12:48:02.000Z",
+            "updatedAt": "2020-12-05T12:14:15.137Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        960,
+                        541
+                    ],
+                    [
+                        955,
+                        548
+                    ],
+                    [
+                        956,
+                        566
+                    ],
+                    [
+                        959,
+                        566
+                    ],
+                    [
+                        961,
+                        563
+                    ],
+                    [
+                        981,
+                        564
+                    ],
+                    [
+                        983,
+                        566
+                    ],
+                    [
+                        987,
+                        565
+                    ],
+                    [
+                        987,
+                        546
+                    ],
+                    [
+                        984,
+                        543
+                    ],
+                    [
+                        981,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

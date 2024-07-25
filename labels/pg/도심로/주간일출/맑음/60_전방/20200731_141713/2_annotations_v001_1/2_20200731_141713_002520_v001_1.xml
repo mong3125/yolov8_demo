@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_002520</filename>
+  <path>Z:\polygon\IPIS201201_verification\IPIS_4week_4d\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>3</index_max>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1046</x><y>536</y><x>1033</x><y>536</y><x>1030</x><y>540</y><x>1029</x><y>544</y><x>1031</x><y>573</y><x>1035</x><y>573</y><x>1040</x><y>572</y><x>1042</x><y>570</y><x>1055</x><y>571</y><x>1058</x><y>574</y><x>1064</x><y>574</y><x>1065</x><y>571</y><x>1061</x><y>542</y><x>1059</x><y>536</y><x>1053</x><y>535</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>963</x><y>505</y><x>957</x><y>506</y><x>947</x><y>509</y><x>948</x><y>519</y><x>947</x><y>533</y><x>948</x><y>564</y><x>949</x><y>567</y><x>953</x><y>567</y><x>956</x><y>566</y><x>972</x><y>567</y><x>975</x><y>568</y><x>982</x><y>568</y><x>984</x><y>566</y><x>988</x><y>534</y><x>988</x><y>510</y><x>984</x><y>507</y><x>978</x><y>505</y><x>973</x><y>504</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1919</x><y>0</y><x>1815</x><y>0</y><x>1805</x><y>61</y><x>1807</x><y>100</y><x>1825</x><y>301</y><x>1821</x><y>367</y><x>1825</x><y>408</y><x>1812</x><y>419</y><x>1820</x><y>589</y><x>1813</x><y>703</y><x>1856</x><y>703</y><x>1919</x><y>660</y>
+   </PolyPt>
+   <index>3</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_001410</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>482</x><y>759</y><x>820</x><y>612</y><x>942</x><y>562</y><x>959</x><y>556</y><x>959</x><y>561</y><x>964</x><y>561</y><x>964</x><y>559</y><x>974</x><y>558</y><x>974</x><y>561</y><x>980</x><y>561</y><x>980</x><y>555</y><x>981</x><y>552</y><x>982</x><y>551</y><x>982</x><y>556</y><x>985</x><y>556</y><x>985</x><y>553</y><x>991</x><y>553</y><x>991</x><y>556</y><x>992</x><y>556</y><x>994</x><y>556</y><x>994</x><y>560</y><x>995</x><y>560</y><x>996</x><y>559</y><x>1005</x><y>559</y><x>1006</x><y>560</y><x>1009</x><y>560</y><x>1009</x><y>556</y><x>1022</x><y>560</y><x>1037</x><y>562</y><x>1048</x><y>561</y><x>1200</x><y>588</y><x>1260</x><y>596</y><x>1285</x><y>599</y><x>1312</x><y>603</y><x>1328</x><y>603</y><x>1332</x><y>606</y><x>1355</x><y>614</y><x>1848</x><y>721</y><x>1784</x><y>738</y><x>1554</x><y>763</y><x>1031</x><y>780</y><x>645</x><y>785</y><x>480</x><y>757</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

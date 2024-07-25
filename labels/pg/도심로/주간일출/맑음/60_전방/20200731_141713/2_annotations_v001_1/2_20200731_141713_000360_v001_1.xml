@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_000360</filename>
+  <path>Z:\polygon\IPIS201201_verification\IPIS_4week_4d\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>3</index_max>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1006</x><y>539</y><x>1003</x><y>540</y><x>1002</x><y>543</y><x>1001</x><y>546</y><x>1002</x><y>556</y><x>1002</x><y>560</y><x>1006</x><y>560</y><x>1008</x><y>558</y><x>1016</x><y>558</y><x>1018</x><y>560</y><x>1021</x><y>560</y><x>1022</x><y>556</y><x>1022</x><y>549</y><x>1019</x><y>539</y><x>1015</x><y>539</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Car</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1436</x><y>546</y><x>1437</x><y>556</y><x>1440</x><y>557</y><x>1446</x><y>556</y><x>1456</x><y>553</y><x>1456</x><y>551</y><x>1453</x><y>548</y><x>1449</x><y>545</y><x>1445</x><y>544</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>533</x><y>454</y><x>478</x><y>459</y><x>469</x><y>459</y><x>467</x><y>466</y><x>463</x><y>471</y><x>457</x><y>475</y><x>454</x><y>479</y><x>451</x><y>488</y><x>443</x><y>494</y><x>439</x><y>495</y><x>434</x><y>497</y><x>430</x><y>498</y><x>425</x><y>504</y><x>423</x><y>506</y><x>422</x><y>511</y><x>423</x><y>520</y><x>421</x><y>535</y><x>427</x><y>535</y><x>427</x><y>545</y><x>432</x><y>545</y><x>442</x><y>544</y><x>647</x><y>544</y><x>650</x><y>543</y><x>654</x><y>540</y><x>655</x><y>534</y><x>654</x><y>481</y><x>651</x><y>478</y><x>644</x><y>475</y><x>623</x><y>472</y><x>620</x><y>471</y><x>614</x><y>470</y><x>565</x><y>458</y><x>544</x><y>453</y>
+   </PolyPt>
+   <index>3</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

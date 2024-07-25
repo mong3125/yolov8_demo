@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_145104_002610</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_145104\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>526</x><y>766</y><x>687</x><y>688</y><x>883</x><y>589</y><x>951</x><y>556</y><x>950</x><y>570</y><x>951</x><y>581</y><x>957</x><y>581</y><x>959</x><y>576</y><x>992</x><y>576</y><x>994</x><y>582</y><x>1003</x><y>582</y><x>1003</x><y>575</y><x>1002</x><y>568</y><x>1002</x><y>558</y><x>1000</x><y>553</y><x>1006</x><y>552</y><x>1018</x><y>554</y><x>1043</x><y>558</y><x>1094</x><y>565</y><x>1134</x><y>569</y><x>1135</x><y>578</y><x>1136</x><y>586</y><x>1138</x><y>595</y><x>1143</x><y>620</y><x>1156</x><y>622</y><x>1165</x><y>618</y><x>1164</x><y>612</y><x>1173</x><y>612</y><x>1176</x><y>607</y><x>1189</x><y>612</y><x>1231</x><y>622</y><x>1232</x><y>640</y><x>1236</x><y>653</y><x>1244</x><y>661</y><x>1259</x><y>663</y><x>1272</x><y>661</y><x>1277</x><y>671</y><x>1288</x><y>678</y><x>1306</x><y>682</y><x>1319</x><y>680</y><x>1326</x><y>699</y><x>1340</x><y>702</y><x>1388</x><y>702</y><x>1520</x><y>704</y><x>1567</x><y>686</y><x>1593</x><y>667</y><x>1650</x><y>664</y><x>1671</x><y>681</y><x>1717</x><y>677</y><x>1712</x><y>660</y><x>1734</x><y>663</y><x>1808</x><y>674</y><x>1883</x><y>686</y><x>1876</x><y>698</y><x>1855</x><y>706</y><x>1828</x><y>717</y><x>1826</x><y>727</y><x>1799</x><y>725</y><x>1744</x><y>736</y><x>1511</x><y>765</y><x>1302</x><y>774</y><x>1074</x><y>785</y><x>860</x><y>784</y><x>689</x><y>779</y><x>586</x><y>777</y><x>524</x><y>768</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

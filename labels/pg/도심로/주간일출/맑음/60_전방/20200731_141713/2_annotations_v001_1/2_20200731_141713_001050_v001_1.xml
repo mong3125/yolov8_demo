@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_001050</filename>
+  <path>Z:\polygon\IPIS201201_verification\IPIS_4week_4d\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>3</index_max>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>750</x><y>524</y><x>737</x><y>528</y><x>724</x><y>529</y><x>723</x><y>535</y><x>721</x><y>542</y><x>721</x><y>545</y><x>764</x><y>546</y><x>772</x><y>544</y><x>771</x><y>528</y><x>759</x><y>527</y><x>754</x><y>526</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1296</x><y>488</y><x>1276</x><y>490</y><x>1254</x><y>494</y><x>1248</x><y>496</y><x>1243</x><y>499</y><x>1239</x><y>504</y><x>1232</x><y>509</y><x>1229</x><y>513</y><x>1226</x><y>526</y><x>1221</x><y>529</y><x>1218</x><y>532</y><x>1216</x><y>539</y><x>1215</x><y>564</y><x>1214</x><y>569</y><x>1212</x><y>575</y><x>1212</x><y>583</y><x>1214</x><y>589</y><x>1220</x><y>636</y><x>1220</x><y>639</y><x>1229</x><y>652</y><x>1233</x><y>655</y><x>1236</x><y>654</y><x>1242</x><y>653</y><x>1255</x><y>648</y><x>1259</x><y>647</y><x>1267</x><y>642</y><x>1285</x><y>645</y><x>1292</x><y>649</y><x>1296</x><y>653</y><x>1297</x><y>676</y><x>1309</x><y>684</y><x>1314</x><y>684</y><x>1324</x><y>683</y><x>1326</x><y>683</y><x>1332</x><y>673</y><x>1334</x><y>667</y><x>1346</x><y>660</y><x>1370</x><y>664</y><x>1402</x><y>661</y><x>1413</x><y>665</y><x>1415</x><y>665</y><x>1424</x><y>677</y><x>1426</x><y>679</y><x>1430</x><y>680</y><x>1434</x><y>683</y><x>1437</x><y>684</y><x>1452</x><y>679</y><x>1454</x><y>676</y><x>1463</x><y>670</y><x>1466</x><y>666</y><x>1467</x><y>663</y><x>1467</x><y>661</y><x>1475</x><y>656</y><x>1477</x><y>654</y><x>1478</x><y>643</y><x>1478</x><y>638</y><x>1484</x><y>633</y><x>1492</x><y>632</y><x>1507</x><y>632</y><x>1521</x><y>623</y><x>1522</x><y>620</y><x>1523</x><y>612</y><x>1522</x><y>568</y><x>1519</x><y>565</y><x>1508</x><y>562</y><x>1496</x><y>564</y><x>1401</x><y>564</y><x>1395</x><y>563</y><x>1389</x><y>559</y><x>1384</x><y>532</y><x>1377</x><y>523</y><x>1378</x><y>519</y><x>1378</x><y>512</y><x>1374</x><y>502</y><x>1373</x><y>498</y><x>1357</x><y>488</y><x>1351</x><y>487</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1052</x><y>523</y><x>1050</x><y>523</y><x>1044</x><y>533</y><x>1041</x><y>537</y><x>1040</x><y>543</y><x>1040</x><y>569</y><x>1042</x><y>571</y><x>1051</x><y>571</y><x>1056</x><y>567</y><x>1068</x><y>569</y><x>1070</x><y>569</y><x>1075</x><y>573</y><x>1080</x><y>573</y><x>1082</x><y>571</y><x>1085</x><y>554</y><x>1083</x><y>535</y><x>1081</x><y>529</y><x>1071</x><y>522</y>
+   </PolyPt>
+   <index>3</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

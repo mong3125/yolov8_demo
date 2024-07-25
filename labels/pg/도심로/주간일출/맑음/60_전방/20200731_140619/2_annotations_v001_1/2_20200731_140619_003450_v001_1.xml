@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_140619_003450</filename>
+  <path>Z:\polygon\IPIS201201_verification\IPIS_4week_4d\20200731_140619\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>2</index_max>
+ <polygon>
+   <name>Vehicle_Bus</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1038</x><y>509</y><x>1030</x><y>509</y><x>1026</x><y>514</y><x>1024</x><y>521</y><x>1020</x><y>524</y><x>1018</x><y>524</y><x>1015</x><y>526</y><x>1016</x><y>559</y><x>1018</x><y>567</y><x>1022</x><y>570</y><x>1027</x><y>568</y><x>1034</x><y>567</y><x>1037</x><y>566</y><x>1052</x><y>567</y><x>1061</x><y>570</y><x>1067</x><y>570</y><x>1070</x><y>566</y><x>1070</x><y>564</y><x>1072</x><y>562</y><x>1073</x><y>558</y><x>1071</x><y>521</y><x>1070</x><y>517</y><x>1070</x><y>511</y><x>1067</x><y>508</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Unknown</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1156</x><y>503</y><x>1151</x><y>504</y><x>1146</x><y>506</y><x>1140</x><y>511</y><x>1136</x><y>517</y><x>1135</x><y>520</y><x>1135</x><y>522</y><x>1130</x><y>528</y><x>1128</x><y>535</y><x>1125</x><y>539</y><x>1124</x><y>544</y><x>1122</x><y>587</y><x>1124</x><y>596</y><x>1126</x><y>617</y><x>1130</x><y>618</y><x>1138</x><y>617</y><x>1150</x><y>617</y><x>1153</x><y>620</y><x>1154</x><y>624</y><x>1154</x><y>626</y><x>1161</x><y>632</y><x>1169</x><y>631</y><x>1173</x><y>631</y><x>1179</x><y>624</y><x>1185</x><y>619</y><x>1195</x><y>620</y><x>1214</x><y>617</y><x>1231</x><y>617</y><x>1240</x><y>628</y><x>1244</x><y>631</y><x>1254</x><y>631</y><x>1256</x><y>628</y><x>1262</x><y>621</y><x>1264</x><y>610</y><x>1268</x><y>605</y><x>1269</x><y>602</y><x>1269</x><y>600</y><x>1277</x><y>588</y><x>1278</x><y>584</y><x>1278</x><y>562</y><x>1276</x><y>560</y><x>1273</x><y>559</y><x>1259</x><y>559</y><x>1255</x><y>558</y><x>1245</x><y>548</y><x>1244</x><y>544</y><x>1240</x><y>539</y><x>1237</x><y>528</y><x>1233</x><y>523</y><x>1232</x><y>516</y><x>1227</x><y>509</y><x>1225</x><y>507</y><x>1221</x><y>506</y><x>1213</x><y>505</y><x>1206</x><y>503</y><x>1200</x><y>502</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

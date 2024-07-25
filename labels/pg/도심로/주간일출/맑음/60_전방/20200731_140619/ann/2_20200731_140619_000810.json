@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 580946068,
+            "classId": 2737563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:28:30.000Z",
+            "updatedAt": "2020-12-08T16:04:07.034Z",
+            "tags": [],
+            "classTitle": "Vehicle_Bus",
+            "points": {
+                "exterior": [
+                    [
+                        894,
+                        523
+                    ],
+                    [
+                        892,
+                        525
+                    ],
+                    [
+                        891,
+                        548
+                    ],
+                    [
+                        894,
+                        552
+                    ],
+                    [
+                        898,
+                        551
+                    ],
+                    [
+                        915,
+                        552
+                    ],
+                    [
+                        920,
+                        548
+                    ],
+                    [
+                        920,
+                        541
+                    ],
+                    [
+                        920,
+                        531
+                    ],
+                    [
+                        918,
+                        529
+                    ],
+                    [
+                        918,
+                        526
+                    ],
+                    [
+                        916,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

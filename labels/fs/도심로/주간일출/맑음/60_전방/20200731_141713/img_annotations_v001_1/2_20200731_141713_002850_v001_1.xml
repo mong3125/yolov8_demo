@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_141713_002850</filename>
+  <path>Z:\freespace\IPIS_Freespace_verification\20200731_141713\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+ <polygon>
+   <name>FreeSpace</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>461</x><y>753</y><x>837</x><y>603</y><x>931</x><y>569</y><x>955</x><y>565</y><x>974</x><y>564</y><x>978</x><y>565</y><x>988</x><y>565</y><x>990</x><y>566</y><x>993</x><y>566</y><x>995</x><y>565</y><x>1007</x><y>565</y><x>1009</x><y>567</y><x>1009</x><y>576</y><x>1021</x><y>576</y><x>1020</x><y>571</y><x>1022</x><y>571</y><x>1022</x><y>576</y><x>1026</x><y>576</y><x>1026</x><y>570</y><x>1032</x><y>571</y><x>1034</x><y>572</y><x>1034</x><y>576</y><x>1051</x><y>575</y><x>1051</x><y>571</y><x>1053</x><y>570</y><x>1054</x><y>569</y><x>1090</x><y>572</y><x>1128</x><y>577</y><x>1177</x><y>584</y><x>1221</x><y>591</y><x>1248</x><y>593</y><x>1249</x><y>596</y><x>1250</x><y>617</y><x>1247</x><y>631</y><x>1250</x><y>650</y><x>1257</x><y>658</y><x>1266</x><y>663</y><x>1268</x><y>669</y><x>1268</x><y>686</y><x>1273</x><y>701</y><x>1278</x><y>708</y><x>1288</x><y>710</y><x>1299</x><y>710</y><x>1317</x><y>711</y><x>1326</x><y>711</y><x>1398</x><y>731</y><x>1400</x><y>738</y><x>1403</x><y>754</y><x>1422</x><y>770</y><x>1491</x><y>762</y><x>1534</x><y>755</y><x>1548</x><y>745</y><x>1553</x><y>734</y><x>1574</x><y>741</y><x>1607</x><y>753</y><x>1644</x><y>745</y><x>1658</x><y>724</y><x>1690</x><y>720</y><x>1696</x><y>727</y><x>1703</x><y>719</y><x>1696</x><y>705</y><x>1703</x><y>696</y><x>1762</x><y>687</y><x>1763</x><y>683</y><x>1759</x><y>676</y><x>1763</x><y>672</y><x>1788</x><y>672</y><x>1830</x><y>683</y><x>1879</x><y>691</y><x>1855</x><y>715</y><x>1825</x><y>732</y><x>1716</x><y>754</y><x>1466</x><y>771</y><x>1376</x><y>771</y><x>1037</x><y>789</y><x>594</x><y>777</y><x>460</x><y>755</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581036812,
+            "classId": 2737559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:30:52.000Z",
+            "updatedAt": "2020-11-23T15:30:52.000Z",
+            "tags": [],
+            "classTitle": "Pedestrian_Pedestrian",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        550
+                    ],
+                    [
+                        343,
+                        554
+                    ],
+                    [
+                        343,
+                        558
+                    ],
+                    [
+                        358,
+                        557
+                    ],
+                    [
+                        354,
+                        551
+                    ],
+                    [
+                        351,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036811,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:30:52.000Z",
+            "updatedAt": "2020-12-04T11:35:11.647Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        960,
+                        525
+                    ],
+                    [
+                        958,
+                        527
+                    ],
+                    [
+                        960,
+                        560
+                    ],
+                    [
+                        983,
+                        561
+                    ],
+                    [
+                        983,
+                        556
+                    ],
+                    [
+                        984,
+                        547
+                    ],
+                    [
+                        984,
+                        529
+                    ],
+                    [
+                        984,
+                        525
+                    ],
+                    [
+                        979,
+                        520
+                    ],
+                    [
+                        970,
+                        519
+                    ],
+                    [
+                        963,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581036970,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:00.000Z",
+            "updatedAt": "2020-11-23T15:31:00.000Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        539
+                    ],
+                    [
+                        743,
+                        540
+                    ],
+                    [
+                        741,
+                        540
+                    ],
+                    [
+                        736,
+                        547
+                    ],
+                    [
+                        735,
+                        551
+                    ],
+                    [
+                        794,
+                        550
+                    ],
+                    [
+                        793,
+                        544
+                    ],
+                    [
+                        788,
+                        540
+                    ],
+                    [
+                        786,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036969,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:00.000Z",
+            "updatedAt": "2020-12-04T11:35:29.995Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        958,
+                        524
+                    ],
+                    [
+                        956,
+                        526
+                    ],
+                    [
+                        959,
+                        559
+                    ],
+                    [
+                        967,
+                        559
+                    ],
+                    [
+                        976,
+                        559
+                    ],
+                    [
+                        981,
+                        558
+                    ],
+                    [
+                        982,
+                        554
+                    ],
+                    [
+                        983,
+                        545
+                    ],
+                    [
+                        983,
+                        526
+                    ],
+                    [
+                        982,
+                        522
+                    ],
+                    [
+                        977,
+                        519
+                    ],
+                    [
+                        971,
+                        518
+                    ],
+                    [
+                        963,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

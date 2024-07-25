@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_145104_001920.jpg</filename>
+  <path>D:\한자연\검수8차_세종4차\201117 세종_김정희 4차수 검수요청\20200731_145104\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>1</index_max>
+  <object>
+    <name>Vehicle_Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>951</xmin>
+      <ymin>544</ymin>
+      <xmax>990</xmax>
+      <ymax>572</ymax>
+    </bndbox>
+    <index>4</index>
+    <review_code>C_v001</review_code>
+  </object>
+</annotation>

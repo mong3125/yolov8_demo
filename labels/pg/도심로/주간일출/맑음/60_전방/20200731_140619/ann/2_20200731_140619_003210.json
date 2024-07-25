@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 580946759,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:39:03.000Z",
+            "updatedAt": "2020-12-07T15:42:02.195Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        984,
+                        540
+                    ],
+                    [
+                        982,
+                        542
+                    ],
+                    [
+                        981,
+                        545
+                    ],
+                    [
+                        980,
+                        552
+                    ],
+                    [
+                        981,
+                        558
+                    ],
+                    [
+                        981,
+                        561
+                    ],
+                    [
+                        983,
+                        561
+                    ],
+                    [
+                        985,
+                        559
+                    ],
+                    [
+                        994,
+                        560
+                    ],
+                    [
+                        998,
+                        560
+                    ],
+                    [
+                        997,
+                        547
+                    ],
+                    [
+                        994,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946758,
+            "classId": 2737563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "nightchell",
+            "createdAt": "2020-12-07T15:42:01.873Z",
+            "updatedAt": "2020-12-07T15:42:05.549Z",
+            "tags": [],
+            "classTitle": "Vehicle_Bus",
+            "points": {
+                "exterior": [
+                    [
+                        968,
+                        555
+                    ],
+                    [
+                        968,
+                        532
+                    ],
+                    [
+                        986,
+                        533
+                    ],
+                    [
+                        988,
+                        540
+                    ],
+                    [
+                        981,
+                        540
+                    ],
+                    [
+                        979,
+                        549
+                    ],
+                    [
+                        979,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

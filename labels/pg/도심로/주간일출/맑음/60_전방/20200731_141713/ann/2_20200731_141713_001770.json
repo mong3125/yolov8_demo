@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581036896,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:54.000Z",
+            "updatedAt": "2020-12-04T11:40:36.255Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        1018,
+                        543
+                    ],
+                    [
+                        1015,
+                        543
+                    ],
+                    [
+                        1012,
+                        547
+                    ],
+                    [
+                        1009,
+                        550
+                    ],
+                    [
+                        1008,
+                        553
+                    ],
+                    [
+                        1008,
+                        569
+                    ],
+                    [
+                        1010,
+                        571
+                    ],
+                    [
+                        1017,
+                        568
+                    ],
+                    [
+                        1038,
+                        568
+                    ],
+                    [
+                        1040,
+                        570
+                    ],
+                    [
+                        1046,
+                        569
+                    ],
+                    [
+                        1045,
+                        550
+                    ],
+                    [
+                        1040,
+                        543
+                    ],
+                    [
+                        1037,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036895,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:31:54.000Z",
+            "updatedAt": "2020-12-04T11:40:36.255Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        950,
+                        516
+                    ],
+                    [
+                        946,
+                        519
+                    ],
+                    [
+                        944,
+                        522
+                    ],
+                    [
+                        946,
+                        559
+                    ],
+                    [
+                        958,
+                        557
+                    ],
+                    [
+                        962,
+                        558
+                    ],
+                    [
+                        969,
+                        558
+                    ],
+                    [
+                        970,
+                        552
+                    ],
+                    [
+                        971,
+                        528
+                    ],
+                    [
+                        970,
+                        518
+                    ],
+                    [
+                        963,
+                        515
+                    ],
+                    [
+                        960,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581036894,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-04T11:40:35.981Z",
+            "updatedAt": "2020-12-04T11:40:39.768Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        972,
+                        527
+                    ],
+                    [
+                        970,
+                        553
+                    ],
+                    [
+                        983,
+                        552
+                    ],
+                    [
+                        982,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

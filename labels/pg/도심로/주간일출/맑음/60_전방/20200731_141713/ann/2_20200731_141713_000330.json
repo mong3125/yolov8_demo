@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 581033104,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T15:25:43.000Z",
+            "updatedAt": "2020-12-04T08:13:56.083Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        691,
+                        538
+                    ],
+                    [
+                        682,
+                        539
+                    ],
+                    [
+                        672,
+                        545
+                    ],
+                    [
+                        669,
+                        549
+                    ],
+                    [
+                        673,
+                        550
+                    ],
+                    [
+                        677,
+                        549
+                    ],
+                    [
+                        686,
+                        550
+                    ],
+                    [
+                        691,
+                        549
+                    ],
+                    [
+                        707,
+                        550
+                    ],
+                    [
+                        742,
+                        548
+                    ],
+                    [
+                        739,
+                        542
+                    ],
+                    [
+                        734,
+                        538
+                    ],
+                    [
+                        731,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581033102,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-04T08:13:48.906Z",
+            "updatedAt": "2020-12-04T08:13:55.835Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        830,
+                        549
+                    ],
+                    [
+                        854,
+                        549
+                    ],
+                    [
+                        856,
+                        545
+                    ],
+                    [
+                        868,
+                        544
+                    ],
+                    [
+                        869,
+                        526
+                    ],
+                    [
+                        830,
+                        525
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 581033100,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "sanghyun015@ipis.cau.ac.kr",
+            "createdAt": "2020-12-04T08:13:55.801Z",
+            "updatedAt": "2020-12-04T08:13:59.366Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        999,
+                        562
+                    ],
+                    [
+                        1018,
+                        563
+                    ],
+                    [
+                        1019,
+                        552
+                    ],
+                    [
+                        1017,
+                        543
+                    ],
+                    [
+                        1000,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

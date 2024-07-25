@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_145104_001170</filename>
+  <path>Z:\polygon\IPIS201202_verification\IPIS_4week_5d\20200731_145104\ann</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>3</index_max>
+ <polygon>
+   <name>Vehicle_Car</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>1095</x><y>540</y><x>1087</x><y>541</y><x>1085</x><y>541</y><x>1082</x><y>543</y><x>1070</x><y>555</y><x>1070</x><y>562</y><x>1068</x><y>573</y><x>1069</x><y>584</y><x>1070</x><y>589</y><x>1070</x><y>591</y><x>1072</x><y>593</y><x>1076</x><y>594</y><x>1078</x><y>594</y><x>1086</x><y>598</y><x>1088</x><y>598</y><x>1090</x><y>595</y><x>1094</x><y>592</y><x>1140</x><y>593</y><x>1143</x><y>597</y><x>1145</x><y>599</y><x>1153</x><y>596</y><x>1155</x><y>589</y><x>1154</x><y>573</y><x>1152</x><y>566</y><x>1152</x><y>559</y><x>1142</x><y>546</y><x>1135</x><y>541</y><x>1132</x><y>540</y><x>1123</x><y>539</y>
+   </PolyPt>
+   <index>1</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Car</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>961</x><y>545</y><x>957</x><y>551</y><x>957</x><y>564</y><x>960</x><y>564</y><x>964</x><y>562</y><x>980</x><y>564</y><x>983</x><y>564</y><x>984</x><y>548</y><x>979</x><y>545</y><x>976</x><y>544</y>
+   </PolyPt>
+   <index>2</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+ <polygon>
+   <name>Vehicle_Car</name>
+   <pose>Unspecified</pose>
+   <truncated>0</truncated>
+   <difficult>0</difficult>
+   <PolyPt><x>770</x><y>539</y><x>763</x><y>543</y><x>762</x><y>549</y><x>799</x><y>549</y><x>796</x><y>538</y>
+   </PolyPt>
+   <index>3</index>
+   <review_code>C_v001</review_code>
+ </polygon>
+</annotation>

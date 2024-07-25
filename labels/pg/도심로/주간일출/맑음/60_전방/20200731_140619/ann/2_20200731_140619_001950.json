@@ -1,0 +1,350 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 580946514,
+            "classId": 2737554,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-11-23T08:33:27.000Z",
+            "tags": [],
+            "classTitle": "Vehicle_Car",
+            "points": {
+                "exterior": [
+                    [
+                        699,
+                        529
+                    ],
+                    [
+                        689,
+                        541
+                    ],
+                    [
+                        756,
+                        542
+                    ],
+                    [
+                        757,
+                        537
+                    ],
+                    [
+                        749,
+                        529
+                    ],
+                    [
+                        746,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946513,
+            "classId": 2737563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-11-23T08:33:27.000Z",
+            "tags": [],
+            "classTitle": "Vehicle_Bus",
+            "points": {
+                "exterior": [
+                    [
+                        983,
+                        498
+                    ],
+                    [
+                        981,
+                        500
+                    ],
+                    [
+                        978,
+                        520
+                    ],
+                    [
+                        979,
+                        558
+                    ],
+                    [
+                        981,
+                        568
+                    ],
+                    [
+                        991,
+                        566
+                    ],
+                    [
+                        998,
+                        564
+                    ],
+                    [
+                        1010,
+                        565
+                    ],
+                    [
+                        1014,
+                        566
+                    ],
+                    [
+                        1023,
+                        570
+                    ],
+                    [
+                        1029,
+                        567
+                    ],
+                    [
+                        1030,
+                        540
+                    ],
+                    [
+                        1029,
+                        522
+                    ],
+                    [
+                        1026,
+                        512
+                    ],
+                    [
+                        1025,
+                        505
+                    ],
+                    [
+                        1021,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946512,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-11-23T08:33:27.000Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        949,
+                        516
+                    ],
+                    [
+                        945,
+                        517
+                    ],
+                    [
+                        942,
+                        521
+                    ],
+                    [
+                        941,
+                        524
+                    ],
+                    [
+                        945,
+                        542
+                    ],
+                    [
+                        971,
+                        540
+                    ],
+                    [
+                        969,
+                        522
+                    ],
+                    [
+                        968,
+                        519
+                    ],
+                    [
+                        965,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946511,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-12-07T15:07:53.285Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        886,
+                        511
+                    ],
+                    [
+                        881,
+                        512
+                    ],
+                    [
+                        875,
+                        515
+                    ],
+                    [
+                        870,
+                        520
+                    ],
+                    [
+                        869,
+                        523
+                    ],
+                    [
+                        870,
+                        541
+                    ],
+                    [
+                        878,
+                        541
+                    ],
+                    [
+                        879,
+                        524
+                    ],
+                    [
+                        890,
+                        523
+                    ],
+                    [
+                        892,
+                        541
+                    ],
+                    [
+                        905,
+                        540
+                    ],
+                    [
+                        915,
+                        541
+                    ],
+                    [
+                        922,
+                        536
+                    ],
+                    [
+                        918,
+                        518
+                    ],
+                    [
+                        916,
+                        512
+                    ],
+                    [
+                        901,
+                        510
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946510,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-12-07T15:08:02.344Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        1077,
+                        535
+                    ],
+                    [
+                        1078,
+                        540
+                    ],
+                    [
+                        1079,
+                        551
+                    ],
+                    [
+                        1079,
+                        553
+                    ],
+                    [
+                        1091,
+                        553
+                    ],
+                    [
+                        1090,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 580946509,
+            "classId": 2737556,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tiruss",
+            "createdAt": "2020-11-23T08:33:27.000Z",
+            "updatedAt": "2020-12-07T15:08:02.046Z",
+            "tags": [],
+            "classTitle": "Vehicle_Unknown",
+            "points": {
+                "exterior": [
+                    [
+                        1051,
+                        534
+                    ],
+                    [
+                        1050,
+                        544
+                    ],
+                    [
+                        1051,
+                        550
+                    ],
+                    [
+                        1051,
+                        553
+                    ],
+                    [
+                        1055,
+                        552
+                    ],
+                    [
+                        1062,
+                        553
+                    ],
+                    [
+                        1066,
+                        550
+                    ],
+                    [
+                        1066,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
