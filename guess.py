@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # 학습된 모델 로드
-model = YOLO('./yolov8n.pt')
+model = YOLO('./runs/detect/train38/weights/best.pt')
 
 # 이미지에 대한 추론
 results = model('./car.jpg')

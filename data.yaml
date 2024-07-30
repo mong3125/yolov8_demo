@@ -1,6 +1,0 @@
-train: C:/Users/mong3/Desktop/code/graduate/data/train
-val: C:/Users/mong3/Desktop/code/graduate/data/val
-test: C:/Users/mong3/Desktop/code/graduate/data/test
-
-nc: 3  # 클래스 수
-names: ['Vehicle_Bus', 'TrafficSign_Else', 'Vehicle_Unknown']  # 클래스 이름
